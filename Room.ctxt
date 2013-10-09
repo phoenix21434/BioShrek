@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=roomx\ roomy\ roomz\ roomtext
+comment0.target=Room(int,\ int,\ int,\ java.lang.String)
+comment1.params=additionalText
+comment1.target=void\ enterRoom(java.lang.String)
+numComments=2
